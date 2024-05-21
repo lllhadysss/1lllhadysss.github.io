@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: 15160095983@wo.cn
 description: "这里是 @Hady李瀚宇 的个人博客，与你一起发现更大的世界 | 要做一个有活着的人"
 keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://gitee.com/li-hady/" # your host, for absolute URL
+url: "https://github.com/lllhadysss" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
